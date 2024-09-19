@@ -1,0 +1,14 @@
+{
+    "manifest_version": 3,
+    "name": "Tab History Saver",
+    "version": "1.0",
+    "permissions": ["tabs", "storage", "sessions"],
+    "background": {
+      "service_worker": "background.js"
+    },
+    "action": {
+      "default_popup": "popup.html",
+      "default_icon": "favicon.png"
+    }
+  }
+  
