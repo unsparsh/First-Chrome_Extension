@@ -15,7 +15,7 @@
 1. **Clone the repository:**
 
    ```bash
-   git clone [https://github.com/yourusername/tab-history-saver.git](https://github.com/unsparsh/First-Chrome_Extension)
+   git clone https://github.com/unsparsh/First-Chrome_Extension.git
    ```
 
 2. **Load the extension in Chrome:**
