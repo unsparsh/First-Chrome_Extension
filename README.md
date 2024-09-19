@@ -15,7 +15,7 @@
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/tab-history-saver.git
+   git clone [https://github.com/yourusername/tab-history-saver.git](https://github.com/unsparsh/First-Chrome_Extension)
    ```
 
 2. **Load the extension in Chrome:**
@@ -36,12 +36,6 @@
    - Open the **Tab History Saver** popup from the toolbar.
    - Scroll through the list of saved sessions.
    - Click the "Restore" button to reopen the saved tabs in a new window.
-
-## Screenshots
-
-![Tab History Saver](screenshot.png)
-
-> Add a screenshot of your extension popup here
 
 ## Contributing
 
